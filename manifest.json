@@ -16,7 +16,7 @@
     "page": "background.html"
   },
   "web_accessible_resources": [
-    "inject.js", "btn_start.png", "btn_stop.png", "tada.mp3"
+    "btn_start.png", "btn_stop.png", "tada.mp3"
   ],
   "options_ui": {
     "page": "options.html",
